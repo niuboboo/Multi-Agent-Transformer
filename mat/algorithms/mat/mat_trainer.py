@@ -8,6 +8,7 @@ from mat.algorithms.utils.util import check
 
 class MATTrainer:
     """
+    im niubo im writing
     Trainer class for MAT to update policies.
     :param args: (argparse.Namespace) arguments containing relevant model, policy, and env information.
     :param policy: (R_MAPPO_Policy) policy to update.
